@@ -67,3 +67,17 @@ h2 {
         grid-template-columns: 1fr; 
     }
 }
+.projects-btn {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin: 20px auto;
+    padding: 12px 0;
+    background-color: #c7b3cc;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
